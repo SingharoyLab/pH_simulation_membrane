@@ -13,8 +13,13 @@ The list of software needed, along with installation instructions, are provided 
   Tutorial for computing hydrogen bond network using MCCE is provided in the following link:
              https://gunnerlab.github.io/Stable-MCCE/hbexample/
 
-* ### Nanoscale Molecular Dynamics (Namd)
+
+* ### Nanoscale Molecular Dynamics (NAMD)
+  NAMD can be downloaded from the following link
+             http://www.ks.uiuc.edu/Research/namd/
+
 
 * ### Visual Molecular Dynamics (VMD)
-
+  VMD can be downloaded from the following link
+             http://www.ks.uiuc.edu/Research/vmd/
 
