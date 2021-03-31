@@ -1,10 +1,20 @@
-# Heading 
+# Poor Person’s pH Simulation of Membrane Proteins 
 
-Deascription
+This folder contains scripts needed for the book chapter titled "Poor Person’s pH Simulation of Membrane Proteins", published in Methods Molecular Biology, Vol. 2315, Chapter 12.
 
-# Heading 
+## Software 
 
-## Heading 2
+The list of software needed, along with installation instructions, are provided below
 
-### Heading 3 
+* ### Monte Carlo Continuum Electrostatics (MCCE)
+  Intrusctions for downloading and installing MCCE is provided in the following link:
+             https://gunnerlab.github.io/Stable-MCCE/quick/
+
+  Tutorial for computing hydrogen bond network using MCCE is provided in the following link:
+             https://gunnerlab.github.io/Stable-MCCE/hbexample/
+
+* ### Nanoscale Molecular Dynamics (Namd)
+
+* ### Visual Molecular Dynamics (VMD)
+
 
